@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ASUS\Desktop\heart disease\app.py"
